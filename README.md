@@ -36,7 +36,10 @@ source env/bin/activate
 pip install -r requirements.txt
 
 ```
-5 ) Run Server 
+5 ) Prerequisites
+ - Makes sure above `Prerequisites` are defined and fulfilled.
+
+6 ) Run Server 
 ```
 python manage.py runserver
 ```
